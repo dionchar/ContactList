@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import ContactList from './components/ContactList';
-import SelectedContact from './components/SelectedContact';
+import ContactList from './Components/ContactList';
+import SelectedContact from './Components/SelectedContact';
 import './App.css';
 
 function App() {
