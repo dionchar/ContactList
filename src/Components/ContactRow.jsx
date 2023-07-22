@@ -9,3 +9,4 @@ export default function ContactRow({ setSelectedContactId, contact }) {
         </tr>
     );
 }
+
